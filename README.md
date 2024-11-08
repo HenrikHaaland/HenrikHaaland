@@ -8,8 +8,7 @@
 ## **--Updates and such things--**
 #### Currently, i'm working as an Intern at Statnett
 #### At my free time and as my semester task i work on a game/ game hub called Nocturnal Skirmish with two of my friends 
-Here's the link to Nocturnal Skirmish
-https://github.com/Nocturnal-Skirmish?view_as=public 
+-Nocturnal Skirmish link: https://github.com/Nocturnal-Skirmish?view_as=public 
 
 <br>
 <br>
