@@ -20,7 +20,7 @@ https://github.com/Nocturnal-Skirmish?view_as=public
 
 #### Other things that i've touched upon
 <a href="https://developer.mozilla.org/en-US/docs/Web/XML"><img src="https://skillicons.dev/icons?i=xml" /></a>
-<a href="[https://developer.mozilla.org/en-US/docs/Web/REACT](https://react.dev/)"><img src="https://skillicons.dev/icons?i=react" /></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
 <!--
 **HenrikHaaland/HenrikHaaland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
