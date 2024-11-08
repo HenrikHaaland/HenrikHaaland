@@ -13,7 +13,7 @@
 
 <br>
 <br>
-
+------------------------------------
 ## **--🔠languages and such things🔠--**
 #### Languages that I know🔡
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=js" /></a>
@@ -22,15 +22,15 @@
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python"><img src="https://skillicons.dev/icons?i=py" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Howto/Markdown_in_MDN"><img src="https://skillicons.dev/icons?i=md" /></a>
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
-
+------------------------------------
 <br>
-
+------------------------------------
 #### Other things that I've touched upon🔡
 <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/TypeScript"><img src="https://skillicons.dev/icons?i=ts" /></a>
-
+------------------------------------
 <br>
-
+------------------------------------
 #### Diffrent Utilities I have used🔧
 <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/GitHub"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
@@ -40,16 +40,17 @@
 <a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" /></a>
 <a href="https://helpx.adobe.com/xd/get-started.html"><img src="https://skillicons.dev/icons?i=xd" /></a>
 <a href="https://www.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" /></a>
-
+------------------------------------
 <br>
 <br>
-
+------------------------------------
 ### ❗Fun facts about me❗
 1. I love to take photographs using photo mode in games📷
 2. I was born i a car🚗
 3. I like to go on mountain walk together with my family on holidays🏔️
 4. I knew how to take a backflip on a trampoline, but not anymore😭
 5. I can draw pixel art very well🎨
+------------------------------------
 
 <!--
 **HenrikHaaland/HenrikHaaland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
