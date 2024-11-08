@@ -40,6 +40,17 @@
 <a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" /></a>
 <a href="https://helpx.adobe.com/xd/get-started.html"><img src="https://skillicons.dev/icons?i=xd" /></a>
 <a href="https://www.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" /></a>
+
+<br>
+<br>
+
+### ❗Fun facts about me❗
+1. I love to take photographs using photo mode in games📷
+2. I was born i a car🚗
+3. I like to go on mountain walk together with my family on holidays🏔️
+4. I knew how to take a backflip on a trampoline, but not anymore😭
+5. I can draw pixel art very well🎨
+
 <!--
 **HenrikHaaland/HenrikHaaland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
