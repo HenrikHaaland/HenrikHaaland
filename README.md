@@ -2,8 +2,8 @@
 
 ### I am a IT-Developer on Kuben-VGS currently looking for an apprenticeship.
 
-
-
+<br>
+<br>
 
 ## **--Updates and such things--**
 #### Currently, i'm working as an Intern at Statnett
