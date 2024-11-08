@@ -1,11 +1,11 @@
-## **Hi ! Welcome to my one and only Github page!**
+## **Hi ! Welcome to my one and only Github page! 👋👋👋**
 
 ### I am a IT-Developer on Kuben-VGS currently looking for an apprenticeship.
 
 <br>
 <br>
 
-## **--Updates and such things--**
+## **--❗Updates and such things❗--**
 #### Currently, i'm working as an Intern at Statnett
 #### At my free time and as my semester task i work on a game/ game hub called Nocturnal Skirmish with two of my friends 
 ##### - Nocturnal Skirmish link:
@@ -14,8 +14,8 @@
 <br>
 <br>
 
-## **--languages and such things--**
-#### Languages that I know
+## **--🔠languages and such things🔠--**
+#### Languages that I know🔡
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=js" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=html" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
@@ -25,13 +25,13 @@
 
 <br>
 
-#### Other things that I've touched upon
+#### Other things that I've touched upon🔡
 <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/TypeScript"><img src="https://skillicons.dev/icons?i=ts" /></a>
 
 <br>
 
-#### Diffrent Utilities I have used
+#### Diffrent Utilities I have used🔧
 <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/GitHub"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/Git"><img src="https://skillicons.dev/icons?i=git" /></a>
