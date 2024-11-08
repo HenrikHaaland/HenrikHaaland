@@ -42,7 +42,7 @@
 <a href="https://www.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" /></a>
 
 <br>
-<br ------------------------------------>
+<br>
 
 ### ❗Fun facts about me❗
 1. I love to take photographs using photo mode in games📷
