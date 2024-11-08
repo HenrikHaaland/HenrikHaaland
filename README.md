@@ -3,6 +3,7 @@
 ### I am a IT-Developer on Kuben-VGS currently looking for an apprenticeship.
 
 
+
 ## **--Updates and such things--**
 #### Currently, i'm working as an Intern at Statnett
 #### At my free time and as my semester task i work on a game/ game hub called Nocturnal Skirmish with two of my friends 
@@ -11,11 +12,15 @@ https://github.com/Nocturnal-Skirmish?view_as=public
 
 
 ## **--languages and such things--**
-#### This is all the Languages that i know
+#### Languages that i know
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=js" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=html" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/Python"><img src="https://skillicons.dev/icons?i=py" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/Python"><img src="https://skillicons.dev/icons?i=py" /></a>
+
+#### Other things that i've touched upon
+<a href="https://developer.mozilla.org/en-US/docs/Web/XML"><img src="https://skillicons.dev/icons?i=xml" /></a>
+<a href="[https://developer.mozilla.org/en-US/docs/Web/REACT](https://react.dev/)"><img src="https://skillicons.dev/icons?i=react" /></a>
 <!--
 **HenrikHaaland/HenrikHaaland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
