@@ -11,6 +11,8 @@
 Here's the link to Nocturnal Skirmish
 https://github.com/Nocturnal-Skirmish?view_as=public 
 
+<br>
+<br>
 
 ## **--languages and such things--**
 #### Languages that I know
@@ -21,9 +23,13 @@ https://github.com/Nocturnal-Skirmish?view_as=public
 <a href="https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Howto/Markdown_in_MDN"><img src="https://skillicons.dev/icons?i=md" /></a>
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
 
+<br>
+
 #### Other things that I've touched upon
 <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/TypeScript"><img src="https://skillicons.dev/icons?i=ts" /></a>
+
+<br>
 
 #### Diffrent Utilities I have used
 <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/GitHub"><img src="https://skillicons.dev/icons?i=github" /></a>
