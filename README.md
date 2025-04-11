@@ -1,16 +1,16 @@
-## **Hi ! Welcome to my one and only Github page! 👋👋👋**
+## **Hello! I am Henrik and welcome to my page!👋👋👋**
 
-### I am a IT-Developer on Kuben-VGS currently looking for an apprenticeship.
+### I am a IT Developer and a student in Kuben VGS
 
 <br>
 <br>
 
 ## **--❗Updates and such things❗--**
-#### Currently, i'm working as an Intern at Statnett
-#### At my free time and as my year task at school i work on a game/ game hub called Nocturnal Skirmish with two of my friends
-#### This is my two friends i am working with: 
-            @jahaa023
-            @DenysDyshlovskyi
+#### I am currently looking for an apprenticeship either in IT Development or in IT Operations
+#### At my free time i currently work on two diffrent projects. GTodos is the first and is a to do app where you can take notes make lists and keep track of progress. Nocturnal Skirmish is the second and it is a project i have made with two of my friends jahaa023 and DenysDyshlovskyi. It is a two part project where the first part is a game hub and the second is a game.
+#### Links to collabirators
+[jahaa023](@jahaa023)
+
 ##### - Nocturnal Skirmish link:
             https://github.com/Nocturnal-Skirmish?view_as=public 
 
@@ -47,12 +47,10 @@
 <br>
 <br>
 
-### ❗Fun facts about me❗
-1. I love to take photographs using photo mode in games📷
-2. I was born i a car🚗
-3. I like to go on mountain walk together with my family on holidays🏔️
-4. I knew how to take a backflip on a trampoline, but not anymore😭
-5. I can draw pixel art very well🎨
+
+   
+![HenrikHaaland's Stats](https://github-readme-stats.vercel.app/api?username=HenrikHaaland&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true)
+![HenrikHaaland's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenrikHaaland&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
 
 
 <!--
