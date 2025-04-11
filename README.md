@@ -6,31 +6,33 @@
 <br>
 
 ## **--❗Updates and such things❗--**
-#### I am currently looking for an apprenticeship either in IT Development or in IT Operations
-#### At my free time i currently work on two diffrent projects. GTodos is the first and is a to do app where you can take notes make lists and keep track of progress. Nocturnal Skirmish is the second and it is a project i have made with two of my friends jahaa023 and DenysDyshlovskyi. It is a two part project where the first part is a game hub and the second is a game.
-#### Links to collabirators
-[jahaa023](@jahaa023)
+#### - I am currently looking for an apprenticeship either in IT Development or in IT Operations
 
-##### - Nocturnal Skirmish link:
-            https://github.com/Nocturnal-Skirmish?view_as=public 
+#### - At my free time i currently work on two diffrent projects. GTodos is the first and is a to do app where you can take notes make lists and keep track of progress. Nocturnal Skirmish is the second and it is a project i have made with two of my friends @jahaa023 and @DenysDyshlovskyi. It is a two part project where the first part is a game hub and the second is a game.
 
-<br>
-<br>
+#### - Links to Projects
+- [Nocturnal Skirmish](https://nocskir.com/)
 
-## **--🔠languages and such things🔠--**
-#### Languages that I know🔡
+#### - Links to collaborators
+- [@jahaa023](https://github.com/jahaa023)
+- [@DenysDyshlovskyi](https://github.com/DenysDyshlovskyi)
+
+
+## **--🤖Technologies🤖--**
+#### Technologies i know🤖
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=js" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=html" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python"><img src="https://skillicons.dev/icons?i=py" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Howto/Markdown_in_MDN"><img src="https://skillicons.dev/icons?i=md" /></a>
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/TypeScript"><img src="https://skillicons.dev/icons?i=ts" /></a>
 
 <br>
 
-#### Other things that I've touched upon🔡
-<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/TypeScript"><img src="https://skillicons.dev/icons?i=ts" /></a>
+#### Other technologies that I've touched upon🔡
+
 
 <br>
 
@@ -43,6 +45,11 @@
 <a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" /></a>
 <a href="https://helpx.adobe.com/xd/get-started.html"><img src="https://skillicons.dev/icons?i=xd" /></a>
 <a href="https://www.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" /></a>
+<a href="https://www.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare" /></a>
+<a href="https://www.cloudflare.com/"><img src="https://skillicons.dev/icons?i=discord" /></a>
+<a href="https://www.cloudflare.com/"><img src="https://skillicons.dev/icons?i=ai" /></a>
+
+
 
 <br>
 <br>
